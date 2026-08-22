@@ -161,7 +161,7 @@ export default Calculator;
 ```
 ## OUTPUT
 
-![Calculator Output](Calci.png)
+<img width="1234" height="778" alt="Screenshot 2026-08-22 105951" src="https://github.com/user-attachments/assets/aa849a2e-64cb-41dc-b573-034679ca57e3" />
 
 
 ## RESULT
